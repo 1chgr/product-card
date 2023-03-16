@@ -3,14 +3,14 @@ const products=[
         id:1,
         name:'Air Jordan',
         price:96,
-        img:'images/snaeker 12.png'
+        img:'images/sneaker 12.png'
     },
 
     {
         id:2,
         name:'adidas',
         price:90,
-        img:'images/snaeker 9.png'
+        img:'images/sneaker 9.png'
     },
 
     {
